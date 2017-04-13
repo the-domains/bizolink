@@ -25,10 +25,6 @@ author:
   url: 'http://www.analyticstao.com/'
 name: Analytics Tao
 url: 'http://analyticstao.com/'
-navigation:
-  - name: Analytics
-    id: 64d8b82f-a48f-4edb-b221-b08fb96fefd2
-    type: content
 title: Analytics Tao
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''

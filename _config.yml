@@ -1,20 +1,20 @@
+layout_spectrum: 0.7248217238803015
+typography_spectrum: 0.517540396458497
+color:
+  brandColors:
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+  brandStrength: 0.17815529648288347
+  lightness: 0.07841345638497779
+  saturation: 0.9542414827050991
+  rhythmicContrast: 0.8666413264929105
 name: Analytics Tao
-layout_spectrum: 0.6046283794566989
-typography_spectrum: 0.290499868337065
 opengraph:
   type: ''
   appId: ''
-color:
-  brandColors:
-    - '#FF8000'
-    - '#FFD933'
-    - '#CCCC52'
-    - '#8FB359'
-    - '#192B33'
-  brandStrength: 0.3639434555079788
-  lightness: 0.8893889300525188
-  saturation: 0.5093609811738133
-  rhythmicContrast: 0.8907675573136657
 purpose:
   - type: contact
     label: Contact me

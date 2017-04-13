@@ -17,7 +17,7 @@ opengraph:
   appId: ''
 purpose:
   - type: contact
-    label: Contact me
+    label: Buzz me
     url: 'mailto:bizolink@gmail.com'
 title: Analytics Tao
 description: Tao of Analytics + Rants

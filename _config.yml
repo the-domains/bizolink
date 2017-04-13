@@ -1,4 +1,4 @@
-name: Bizolink
+name: Analytics Tao
 layout_spectrum: 0.6046283794566989
 typography_spectrum: 0.290499868337065
 opengraph:
@@ -32,3 +32,4 @@ navigation:
     type: content
 content: []
 github: true
+url: 'http://www.analyticstao.com'

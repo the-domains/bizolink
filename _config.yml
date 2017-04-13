@@ -1,5 +1,5 @@
-layout_spectrum: 0.7248217238803015
-typography_spectrum: 0.517540396458497
+layout_spectrum: 0.28880809768222937
+typography_spectrum: 0.6019369773396134
 color:
   brandColors:
     - '#FFFFFF'
@@ -7,10 +7,10 @@ color:
     - '#999999'
     - '#4D4D4D'
     - '#333333'
-  brandStrength: 0.17815529648288347
-  lightness: 0.07841345638497779
-  saturation: 0.9542414827050991
-  rhythmicContrast: 0.8666413264929105
+  brandStrength: 0.3935149319152726
+  lightness: 0.6689457045922443
+  saturation: 0.3665426718821694
+  rhythmicContrast: 0.27480769274498124
 name: Analytics Tao
 opengraph:
   type: ''
@@ -73,7 +73,6 @@ content:
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
       keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       app_links: []
       '@context': 'http://schema.org'
       '@type': MediaObject

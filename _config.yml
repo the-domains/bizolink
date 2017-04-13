@@ -1,5 +1,6 @@
-layout_spectrum: 0.28880809768222937
 typography_spectrum: 0.6019369773396134
+content_rating:
+  adult: false
 color:
   brandColors:
     - '#FFFFFF'
@@ -11,26 +12,27 @@ color:
   lightness: 0.6689457045922443
   saturation: 0.3665426718821694
   rhythmicContrast: 0.27480769274498124
-name: Analytics Tao
+github: true
 opengraph:
   type: ''
   appId: ''
-purpose:
-  - type: contact
-    label: Buzz me
-    url: 'mailto:bizolink@gmail.com'
-title: Analytics Tao
-description: Tao of Analytics + Rants
+layout_spectrum: 0.28880809768222937
+analytics:
+  google: UA-97334757-1
 author:
   name: Kenneth Goh
   email: bcgoh.net@gmail.com
   url: 'http://www.analyticstao.com/'
-content_rating:
-  adult: false
+name: Analytics Tao
+url: 'http://analyticstao.com/'
 navigation:
   - name: About
     id: f9a3ed14-6f1b-4b8c-865b-7a4eac7593c2
     type: content
+  - name: Analytics
+    id: 64d8b82f-a48f-4edb-b221-b08fb96fefd2
+    type: content
+title: Analytics Tao
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: video
@@ -41,16 +43,8 @@ content:
       allowfullscreen></iframe>
     src: !<tag:yaml.org,2002:js/undefined> ''
     metadata:
-      author:
-        - name: TED-Ed
-          url: 'https://www.youtube.com/user/TEDEducation'
-          avatar: {}
-      related: []
-      publisher:
-        url: 'https://www.youtube.com/'
-        name: YouTube
-        favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-        domain: www.youtube.com
+      datePublished: null
+      isBasedOnUrl: 'https://www.youtube.com/watch?v=j-0cUmUyb-Y'
       keywords:
         - \tim smith\
         - cern
@@ -65,13 +59,13 @@ content:
         - \cern
         - big
         - data
-      description: >-
-        View full lesson:
-        http://ed.ted.com/lessons/exploration-on-the-big-data-frontier-tim-smith
-        There is a mind-boggling amount of data floating around our society.
-        Physicists at CERN have been pondering how to store and share their ever
-        more massive data for decades - stimulating globalization of the
-        internet along the way, whilst 'solving' their big data problem.
+      related: []
+      author:
+        - name: TED-Ed
+          url: 'https://www.youtube.com/user/TEDEducation'
+          avatar: {}
+      '@context': 'http://schema.org'
+      title: Big Data - Tim Smith
       '@type': VideoObject
       app_links:
         - url: 'vnd.youtube://www.youtube.com/watch?v=j-0cUmUyb-Y&feature=applinks'
@@ -110,14 +104,23 @@ content:
           package: '544007664'
           namespace: google
           type: ios
-      '@context': 'http://schema.org'
-      isBasedOnUrl: 'https://www.youtube.com/watch?v=j-0cUmUyb-Y'
-      title: Big Data - Tim Smith
-      datePublished: null
+      publisher:
+        url: 'https://www.youtube.com/'
+        name: YouTube
+        favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+        domain: www.youtube.com
+      description: >-
+        View full lesson:
+        http://ed.ted.com/lessons/exploration-on-the-big-data-frontier-tim-smith
+        There is a mind-boggling amount of data floating around our society.
+        Physicists at CERN have been pondering how to store and share their ever
+        more massive data for decades - stimulating globalization of the
+        internet along the way, whilst 'solving' their big data problem.
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
-github: true
-url: 'http://analyticstao.com/'
-analytics:
-  google: UA-97334757-1
+description: Tao of Analytics + Rants
+purpose:
+  - type: contact
+    label: Buzz me
+    url: 'mailto:bizolink@gmail.com'

@@ -26,9 +26,6 @@ author:
 name: Analytics Tao
 url: 'http://analyticstao.com/'
 navigation:
-  - name: About
-    id: f9a3ed14-6f1b-4b8c-865b-7a4eac7593c2
-    type: content
   - name: Analytics
     id: 64d8b82f-a48f-4edb-b221-b08fb96fefd2
     type: content

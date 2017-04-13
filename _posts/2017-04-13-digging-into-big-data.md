@@ -1,7 +1,7 @@
 ---
 title: Digging into Big Data
-datePublished: '2017-04-13T15:59:17.818Z'
-dateModified: '2017-04-13T15:59:16.806Z'
+datePublished: '2017-04-13T16:01:45.291Z'
+dateModified: '2017-04-13T16:01:43.809Z'
 publisher: {}
 author: []
 inFeed: true
@@ -15,8 +15,7 @@ _context: 'http://schema.org'
 
 ---
 # Digging into Big Data
-
-# Digging into Big Data 1
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/eb3a9244-5434-40a2-aac8-d36b3d59e0e6.jpg)
 
 * Register Kaggle
 * Reading Python for Data Analysis through Safaribook

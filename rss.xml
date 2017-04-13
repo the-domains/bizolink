@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Analytics Tao]]></title>
+        <description><![CDATA[Analytics Tao]]></description>
+        <link>http://analyticstao.com/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 13 Apr 2017 16:58:42 GMT</lastBuildDate>
+        <atom:link href="http://analyticstao.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Setting up Python]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ec9ed1e5-fe21-4076-b644-6f5e4b8c416f.jpg">,<h1>Setting up Python</h1>,<p>Python or R and I have chosen Python as it is much more easier to learn (that’s what I read online). Before you get started, you will need to setup python environment.</p>,<ul><li>Install eclipse, platform runtime binary only (http://download.eclipse.org/eclipse/downloads/)</li><li>Install Pydev plugin, an IDE built on the Eclipse platform (http://www.pydev.org/download.html)</li><li>Install anaconda to get all essential python libraries (numpy, scipy and scikit-learn and etc) (https://www.continuum.io/downloads)</li></ul>]]></description>
+            <link>http://analyticstao.com/setting-up-python/index.html</link>
+            <guid isPermaLink="false">64d8b82f-a48f-4edb-b221-b08fb96fefd2</guid>
+            <pubDate>Thu, 13 Apr 2017 16:49:27 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

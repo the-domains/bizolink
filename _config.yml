@@ -72,7 +72,6 @@ content:
         Physicists at CERN have been pondering how to store and share their ever
         more massive data for decades - stimulating globalization of the
         internet along the way, whilst 'solving' their big data problem.
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       '@type': VideoObject
       app_links:
         - url: 'vnd.youtube://www.youtube.com/watch?v=j-0cUmUyb-Y&feature=applinks'
@@ -120,3 +119,5 @@ content:
     text: !<tag:yaml.org,2002:js/undefined> ''
 github: true
 url: 'http://analyticstao.com/'
+analytics:
+  google: UA-97334757-1

@@ -4,8 +4,8 @@ description: >-
   Python or R and I have chosen Python as it is much more easier to learn
   (that’s what I read online). Before you get started, you will need to setup
   python environment.
-dateModified: '2017-04-13T17:55:50.298Z'
-datePublished: '2017-04-13T17:55:51.607Z'
+dateModified: '2017-04-13T17:56:41.235Z'
+datePublished: '2017-04-13T17:56:42.166Z'
 title: Setting up Python
 author: []
 publisher: {}

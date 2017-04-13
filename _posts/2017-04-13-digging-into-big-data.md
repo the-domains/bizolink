@@ -1,12 +1,12 @@
 ---
 title: Digging into Big Data
-datePublished: '2017-04-13T16:14:29.769Z'
-dateModified: '2017-04-13T16:14:28.140Z'
+datePublished: '2017-04-13T16:52:27.580Z'
+dateModified: '2017-04-13T16:52:26.179Z'
 publisher: {}
 author: []
 inFeed: true
 description: >-
-  Hey! welcome to analytics tao! After months of reading and browsing websites
+  Hey! welcome to analytics tao!After months of reading and browsing websites
   for information about data scientist, I finally came up with an idea to setup
   about blog to log what did learn and hopefully it can help others as well
   during my journey to become a data scientist.
@@ -19,7 +19,6 @@ _context: 'http://schema.org'
 
 ---
 # Digging into Big Data
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/eb3a9244-5434-40a2-aac8-d36b3d59e0e6.jpg)
 
 Hey! welcome to analytics tao!  
 After months of reading and browsing websites for information about data scientist, I finally came up with an idea to setup about blog to log what did learn and hopefully it can help others as well during my journey to become a data scientist.

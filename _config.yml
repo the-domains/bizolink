@@ -1,5 +1,6 @@
-layout_spectrum: 0.6226712567282675
 typography_spectrum: 0.4932751584231927
+content_rating:
+  adult: false
 color:
   brandColors:
     - '#FFFFFF'
@@ -11,12 +12,11 @@ color:
   lightness: 0.013569808445114753
   saturation: 0.6892218571001351
   rhythmicContrast: 0.21531536298527354
-content_rating:
-  adult: false
 github: true
 opengraph:
   type: ''
   appId: ''
+layout_spectrum: 0.6226712567282675
 analytics:
   google: UA-97334757-1
 author:
@@ -25,6 +25,10 @@ author:
   url: 'http://www.analyticstao.com/'
 name: Analytics Tao
 url: 'http://analyticstao.com/'
+navigation:
+  - name: About Me
+    id: 98d943c2-5baa-45bc-a29e-2ff90279069f
+    type: content
 title: Analytics Tao
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''

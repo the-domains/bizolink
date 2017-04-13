@@ -31,6 +31,31 @@ navigation:
   - name: About
     id: f9a3ed14-6f1b-4b8c-865b-7a4eac7593c2
     type: content
-content: []
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d603825b-960f-4005-9968-78718e1f524f.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/d603825b-960f-4005-9968-78718e1f524f.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
 github: true
 url: 'http://analyticstao.com/'

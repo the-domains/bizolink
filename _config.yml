@@ -1,0 +1,34 @@
+name: Bizolink
+layout_spectrum: 0.6046283794566989
+typography_spectrum: 0.290499868337065
+opengraph:
+  type: ''
+  appId: ''
+color:
+  brandColors:
+    - '#FF8000'
+    - '#FFD933'
+    - '#CCCC52'
+    - '#8FB359'
+    - '#192B33'
+  brandStrength: 0.3639434555079788
+  lightness: 0.8893889300525188
+  saturation: 0.5093609811738133
+  rhythmicContrast: 0.8907675573136657
+purpose:
+  - type: contact
+    label: Contact me
+    url: 'mailto:bizolink@gmail.com'
+title: Digging into Big Data and Self Taught Data Scientists Practitioner
+description: Tao of Analytics plus My Rants
+author:
+  name: Kenneth Goh
+  email: bcgoh.net@gmail.com
+content_rating:
+  adult: false
+navigation:
+  - name: About
+    id: f9a3ed14-6f1b-4b8c-865b-7a4eac7593c2
+    type: content
+content: []
+github: true

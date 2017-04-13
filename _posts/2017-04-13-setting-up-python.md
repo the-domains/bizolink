@@ -4,8 +4,8 @@ description: >-
   Python or R and I have chosen Python as it is much more easier to learn
   (that’s what I read online). Before you get started, you will need to setup
   python environment.
-dateModified: '2017-04-13T17:56:48.983Z'
-datePublished: '2017-04-13T17:56:50.335Z'
+dateModified: '2017-04-13T17:57:44.210Z'
+datePublished: '2017-04-13T17:57:45.215Z'
 title: Setting up Python
 author: []
 publisher: {}
@@ -29,7 +29,3 @@ Python or R and I have chosen Python as it is much more easier to learn (that's 
 * Install eclipse, platform runtime binary only (http://download.eclipse.org/eclipse/downloads/)
 * Install Pydev plugin, an IDE built on the Eclipse platform (http://www.pydev.org/download.html)
 * Install anaconda to get all essential python libraries (numpy, scipy and scikit-learn and etc) (https://www.continuum.io/downloads)
-
----
-
----

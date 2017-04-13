@@ -1,7 +1,7 @@
 ---
 title: Digging into Big Data
-datePublished: '2017-04-13T15:59:00.097Z'
-dateModified: '2017-04-13T15:58:59.069Z'
+datePublished: '2017-04-13T15:59:17.818Z'
+dateModified: '2017-04-13T15:59:16.806Z'
 publisher: {}
 author: []
 inFeed: true

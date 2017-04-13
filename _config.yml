@@ -24,6 +24,7 @@ description: Tao of Analytics plus My Rants
 author:
   name: Kenneth Goh
   email: bcgoh.net@gmail.com
+  url: 'http://www.analyticstao.com/'
 content_rating:
   adult: false
 navigation:
@@ -32,4 +33,4 @@ navigation:
     type: content
 content: []
 github: true
-url: 'http://www.analyticstao.com'
+url: 'http://analyticstao.com/'

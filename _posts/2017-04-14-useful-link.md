@@ -1,21 +1,25 @@
 ---
 inFeed: false
-description: 'Practice using UCI machine learning repository. http://archive.ics.uci.edu/ml'
-dateModified: '2017-04-14T08:55:33.083Z'
-datePublished: '2017-04-14T08:55:33.951Z'
+description: >-
+  Following are some useful link which you may find helpful if you are new to
+  data science.
+dateModified: '2017-04-14T08:56:43.667Z'
+datePublished: '2017-04-14T08:56:44.792Z'
 title: Useful Link
 author: []
 publisher: {}
 via: {}
 hasPage: true
-sourcePath: _posts/2017-04-14-useful-link.md
 starred: false
-datePublishedOriginal: '2017-04-14T08:54:58.812Z'
+datePublishedOriginal: '2017-04-14T08:56:37.525Z'
+sourcePath: _posts/2017-04-14-useful-link.md
 url: useful-link/index.html
 _type: Blurb
 
 ---
 # Useful Link
+
+Following are some useful link which you may find helpful if you are new to data science.
 
 Practice using UCI machine learning repository.   
 http://archive.ics.uci.edu/ml

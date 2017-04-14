@@ -1,16 +1,16 @@
 ---
 inFeed: false
-description: 'Practice using UCI machine learning repository.  http://archive.ics.uci.edu/ml'
-dateModified: '2017-04-14T08:54:31.922Z'
-datePublished: '2017-04-14T08:54:58.812Z'
+description: 'Practice using UCI machine learning repository. http://archive.ics.uci.edu/ml'
+dateModified: '2017-04-14T08:55:33.083Z'
+datePublished: '2017-04-14T08:55:33.951Z'
 title: Useful Link
 author: []
 publisher: {}
 via: {}
 hasPage: true
+sourcePath: _posts/2017-04-14-useful-link.md
 starred: false
 datePublishedOriginal: '2017-04-14T08:54:58.812Z'
-sourcePath: _posts/2017-04-14-useful-link.md
 url: useful-link/index.html
 _type: Blurb
 

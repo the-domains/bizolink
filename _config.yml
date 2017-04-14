@@ -29,6 +29,9 @@ navigation:
   - name: About Me
     id: 98d943c2-5baa-45bc-a29e-2ff90279069f
     type: content
+  - name: Useful Links
+    id: fd10fc3c-ad12-4eb5-a777-b0fed74c0394
+    type: content
 title: Analytics Tao
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''

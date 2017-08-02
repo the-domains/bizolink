@@ -4,9 +4,16 @@
         <description><![CDATA[Analytics Tao]]></description>
         <link>http://analyticstao.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 02 Aug 2017 03:31:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Aug 2017 09:49:24 GMT</lastBuildDate>
         <atom:link href="http://analyticstao.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 02 Aug 2017 03:31:42 GMT</pubDate>
+        <pubDate>Wed, 02 Aug 2017 09:49:23 GMT</pubDate>
+        <item>
+            <title><![CDATA[Tips to prepare an outstanding CV for data science roles]]></title>
+            <description><![CDATA[<article><h1>Tips to prepare an outstanding CV for data science roles</h1><p>Here is a CV I received for a position of &quot;Research scientist&quot; some time back: Sadly, the person who applied for the CV had very little chance of getting the position. I am not saying this after looking at the skillset of the person.</p><img src="https://www.analyticsvidhya.com/blog/wp-content/uploads/2014/11/bad_CV_example1-1024x452.jpg"></article>]]></description>
+            <link>https://www.analyticsvidhya.com/blog/2014/11/tips-prepare-cv-data-science-roles/</link>
+            <guid isPermaLink="false">ab27af9b-d13f-4249-a9be-b69a27e2d6ba</guid>
+            <pubDate>Wed, 02 Aug 2017 09:49:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Learning data science? Steal this data scientist's list of resources to get started]]></title>
             <description><![CDATA[<article><h1>Learning data science? Steal this data scientist&apos;s list of resources to get started</h1><p>Many people have asked me how to improve or even start with data science. Coming from an economics and accounting background, I had limited exposure to coding/programming until midway of taking my master&apos;s degree six years ago (apart from some very basic introduction to programming in high school and Excel operations/functions).</p><img src="https://cdn.techinasia.com/wp-content/uploads/2017/08/thought-catalog-214785.jpg"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>http://www.thestar.com.my/tech/tech-news/2017/04/10/grab-launches-opentraffic-platform-to-ease-malaysian-traffic-congestions/?utm_content=buffer05d19&amp;utm_medium=social&amp;utm_source=facebook.com&amp;utm_campaign=buffer</link>
             <guid isPermaLink="false">3ef52795-c4d2-4ffa-9649-d23000f72525</guid>
             <pubDate>Mon, 17 Apr 2017 09:37:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Setting up Python]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ec9ed1e5-fe21-4076-b644-6f5e4b8c416f.jpg">,<h1>Setting up Python</h1>,<p>Python or R and I have chosen Python as it is much more easier to learn (that’s what I read online). Before you get started, you will need to setup python environment.</p>,<ul><li>Install eclipse, platform runtime binary only (http://download.eclipse.org/eclipse/downloads/)</li><li>Install Pydev plugin, an IDE built on the Eclipse platform (http://www.pydev.org/download.html)</li><li>Install anaconda to get all essential python libraries (numpy, scipy and scikit-learn and etc) (https://www.continuum.io/downloads)</li></ul>]]></description>
-            <link>http://analyticstao.com/setting-up-python/index.html</link>
-            <guid isPermaLink="false">64d8b82f-a48f-4edb-b221-b08fb96fefd2</guid>
-            <pubDate>Thu, 13 Apr 2017 16:49:27 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,16 @@
         <description><![CDATA[Analytics Tao]]></description>
         <link>http://analyticstao.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 02 Aug 2017 09:49:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Aug 2017 08:42:37 GMT</lastBuildDate>
         <atom:link href="http://analyticstao.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 02 Aug 2017 09:49:23 GMT</pubDate>
+        <pubDate>Thu, 03 Aug 2017 08:42:35 GMT</pubDate>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img alt="&quot;Worrying about AI taking over humanity is like worrying about overpopulating Mars,&quot; says AI researcher Andrew Ng. &quot;We aren&apos;t even on the planet yet.&quot;" src="https://scontent-iad3-1.xx.fbcdn.net/v/t15.0-10/p720x720/20625957_1523208871050854_4647713118934269952_n.jpg?oh=2f5cc60cc885c3929c2f4dbd60a71c2b&oe=5A34E9EC">]]></description>
+            <link>https://www.facebook.com/techinasia/videos/1523205574384517/</link>
+            <guid isPermaLink="false">dea2bdc2-75a3-4d18-9b7f-170f5b0963c5</guid>
+            <pubDate>Thu, 03 Aug 2017 08:42:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Tips to prepare an outstanding CV for data science roles]]></title>
             <description><![CDATA[<article><h1>Tips to prepare an outstanding CV for data science roles</h1><p>Here is a CV I received for a position of &quot;Research scientist&quot; some time back: Sadly, the person who applied for the CV had very little chance of getting the position. I am not saying this after looking at the skillset of the person.</p><img src="https://www.analyticsvidhya.com/blog/wp-content/uploads/2014/11/bad_CV_example1-1024x452.jpg"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>http://blog.kaggle.com/2017/04/17/the-best-sources-to-study-machine-learning-and-ai-with-ben-hamner-kaggle-cto/</link>
             <guid isPermaLink="false">99f5c858-61f4-45fb-aa8d-926b095b4fd1</guid>
             <pubDate>Tue, 18 Apr 2017 02:15:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Grab uses local data to generate traffic solutions in Malaysia - Tech News | The Star Online]]></title>
-            <description><![CDATA[<p>Good news to have some data that is close to you to explore.</p>,<article><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/8df1f5ad561779e94a7edd2ccce4c3fd/noop?input=http%3A%2F%2Fwww.thestar.com.my%2F~%2Fmedia%2Fonline%2F2017%2F04%2F10%2F10%2F37%2Fdcx_doc6nqd5mpblomo3wwexo.ashx%2F"><h1>Grab uses local data to generate traffic solutions in Malaysia - Tech News | The Star Online</h1><p>With over 780,000 drivers on the roads across South-East Asia, ride hailing company Grab pretty much knows the real-time traffic conditions of major cities in the region.</p></article>]]></description>
-            <link>http://www.thestar.com.my/tech/tech-news/2017/04/10/grab-launches-opentraffic-platform-to-ease-malaysian-traffic-congestions/?utm_content=buffer05d19&amp;utm_medium=social&amp;utm_source=facebook.com&amp;utm_campaign=buffer</link>
-            <guid isPermaLink="false">3ef52795-c4d2-4ffa-9649-d23000f72525</guid>
-            <pubDate>Mon, 17 Apr 2017 09:37:58 GMT</pubDate>
         </item>
     </channel>
 </rss>

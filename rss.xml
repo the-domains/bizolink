@@ -4,9 +4,16 @@
         <description><![CDATA[Analytics Tao]]></description>
         <link>http://analyticstao.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 03 Aug 2017 08:42:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Aug 2017 05:51:25 GMT</lastBuildDate>
         <atom:link href="http://analyticstao.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 03 Aug 2017 08:42:35 GMT</pubDate>
+        <pubDate>Fri, 04 Aug 2017 05:51:22 GMT</pubDate>
+        <item>
+            <title><![CDATA[Top 10 Big Data Trends for 2017]]></title>
+            <description><![CDATA[<article><h1>Top 10 Big Data Trends for 2017</h1><p>Tableau helps people transform data into actionable insights. Explore with limitless visual analytics. Build dashboards and perform ad hoc analyses in just a few clicks. Share your work with anyone and make an impact on your business. From global enterprises to early-stage startups and small businesses, people everywhere use Tableau to see and understand their data.</p><img src="https://cdns.tblsft.com/sites/default/files/800x447-itbot3_1.jpg"></article>]]></description>
+            <link>https://www.tableau.com/asset/top-10-big-data-trends-2017?utm_campaign=Retargeting-CORE-ALL-ALL&amp;utm_medium=Paid+Social&amp;utm_source=LinkedIn&amp;utm_language=EN&amp;utm_country=SEA-SG&amp;adgroup=WEB-All+Other</link>
+            <guid isPermaLink="false">41a105aa-e610-486d-bcd7-568706cd2742</guid>
+            <pubDate>Fri, 04 Aug 2017 05:51:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img alt="&quot;Worrying about AI taking over humanity is like worrying about overpopulating Mars,&quot; says AI researcher Andrew Ng. &quot;We aren&apos;t even on the planet yet.&quot;" src="https://scontent-iad3-1.xx.fbcdn.net/v/t15.0-10/p720x720/20625957_1523208871050854_4647713118934269952_n.jpg?oh=2f5cc60cc885c3929c2f4dbd60a71c2b&oe=5A34E9EC">]]></description>
@@ -69,13 +76,6 @@
             <link>https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/</link>
             <guid isPermaLink="false">67203732-f5d0-4c4d-b9ff-72961e5211ba</guid>
             <pubDate>Tue, 18 Apr 2017 05:52:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Best Sources to Study Machine Learning and AI: Quora Session Highlight | Ben Hamner, Kaggle CTO]]></title>
-            <description><![CDATA[<article><h1>The Best Sources to Study Machine Learning and AI: Quora Session Highlight | Ben Hamner, Kaggle CTO</h1><p>Ben Hamner, Kaggle co-founder and CTO, held a Quora Session last month answering questions on the future of Kaggle, machine learning and AI, and data science workflows. Here we highlight his advice for studying machine learning in eight steps. Now is better than ever before to start studying machine learning and artificial intelligence.</p><img src="http://5047-presscdn.pagely.netdna-cdn.com/wp-content/uploads/2017/04/blog_kaggle_competitions-1024x492.png"></article>]]></description>
-            <link>http://blog.kaggle.com/2017/04/17/the-best-sources-to-study-machine-learning-and-ai-with-ben-hamner-kaggle-cto/</link>
-            <guid isPermaLink="false">99f5c858-61f4-45fb-aa8d-926b095b4fd1</guid>
-            <pubDate>Tue, 18 Apr 2017 02:15:36 GMT</pubDate>
         </item>
     </channel>
 </rss>

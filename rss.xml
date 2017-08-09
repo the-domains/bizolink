@@ -4,9 +4,23 @@
         <description><![CDATA[Analytics Tao]]></description>
         <link>http://analyticstao.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Aug 2017 05:51:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Aug 2017 05:44:46 GMT</lastBuildDate>
         <atom:link href="http://analyticstao.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 04 Aug 2017 05:51:22 GMT</pubDate>
+        <pubDate>Wed, 09 Aug 2017 05:44:45 GMT</pubDate>
+        <item>
+            <title><![CDATA[Infographic - Quick Guide to learn Python for Data Science]]></title>
+            <description><![CDATA[<article><h1>Infographic - Quick Guide to learn Python for Data Science</h1><p>Introduction A situation has been described below. Has it ever happened to you? I wanted to learn Python for Data Science, so I googled &apos;I want to learn Python for data science&apos;. Google, effortlessly, provided you the link of all resources to learn Python. Then, you get bemused by the innumerable links available to learn Python.</p><img src="https://www.analyticsvidhya.com/wp-content/uploads/2015/05/final-1.jpg"></article>]]></description>
+            <link>https://www.analyticsvidhya.com/blog/2015/05/infographic-quick-guide-learn-python-data-science/</link>
+            <guid isPermaLink="false">507bff71-8047-4000-852d-318a97df2cbd</guid>
+            <pubDate>Wed, 09 Aug 2017 05:44:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Four Types of Big Data Analytics and Examples of Their Use]]></title>
+            <description><![CDATA[<article><h1>Four Types of Big Data Analytics and Examples of Their Use</h1><p>Big data is one of the misunderstood (and misused) terms in today&apos;s market. But with a clearer understanding the how to apply big data to business intelligence (BI), you can help customers navigate the ins and outs of big data, including how to get the most from their big data analytics.</p><img src="http://cdn2.hubspot.net/hub/213747/file-798534176-jpg/Big_Data/Blog_Images/four-big-data-types.jpg#keepProtocol"></article>]]></description>
+            <link>http://www.ingrammicroadvisor.com/data-center/four-types-of-big-data-analytics-and-examples-of-their-use/</link>
+            <guid isPermaLink="false">04b4165f-5775-42c0-b802-c501c0de7937</guid>
+            <pubDate>Wed, 09 Aug 2017 05:44:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Top 10 Big Data Trends for 2017]]></title>
             <description><![CDATA[<article><h1>Top 10 Big Data Trends for 2017</h1><p>Tableau helps people transform data into actionable insights. Explore with limitless visual analytics. Build dashboards and perform ad hoc analyses in just a few clicks. Share your work with anyone and make an impact on your business. From global enterprises to early-stage startups and small businesses, people everywhere use Tableau to see and understand their data.</p><img src="https://cdns.tblsft.com/sites/default/files/800x447-itbot3_1.jpg"></article>]]></description>
@@ -62,20 +76,6 @@
             <link>http://analyticstao.com/upgrading-my-xiaomi-smart-home/index.html</link>
             <guid isPermaLink="false">f64003f9-51cd-4dcb-923d-111b8aeed729</guid>
             <pubDate>Mon, 15 May 2017 18:27:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The introvert's handbook on how to succeed in IT]]></title>
-            <description><![CDATA[<article><h1>The introvert&apos;s handbook on how to succeed in IT</h1><p>Extroverts love, and get, attention. But organizations miss out when they fail to cultivate the contributions of introverts, too. Susan Cain, author and co-founder of Quiet Revolution, uncovers why and finds ways for &quot;quiet geniuses&quot; to thrive.</p><img src="https://insights.hpe.com/articles/how-to-succeed-as-an-introvert-in-it/_jcr_content/article-image.transform/original/image-1705.jpeg"></article>]]></description>
-            <link>https://insights.hpe.com/articles/how-to-succeed-as-an-introvert-in-it-1705.html?jumpid=em_ifaxd1quhv_aid-510204404</link>
-            <guid isPermaLink="false">a3501823-8d99-4180-96be-6a37710f65bd</guid>
-            <pubDate>Thu, 11 May 2017 02:13:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Essentials of Machine Learning Algorithms (with Python and R Codes)]]></title>
-            <description><![CDATA[<p>Interesting read to understand different Machine Learning Algorithms</p>,<article><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/be07053cb23149b269e48b83d73d95a4/noop.jpg?input=https%3A%2F%2Fwww.analyticsvidhya.com%2Fwp-content%2Fuploads%2F2015%2F08%2FNewl-Machine-Learning-Algorithms.jpg"><h1>Essentials of Machine Learning Algorithms (with Python and R Codes)</h1><p>Introduction Google&apos;s self-driving cars and robots get a lot of press, but the company&apos;s real future is in machine learning, the technology that enables computers to get smarter and more personal. - Eric Schmidt (Google Chairman) We are probably living in the most defining period of human history.</p></article>]]></description>
-            <link>https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/</link>
-            <guid isPermaLink="false">67203732-f5d0-4c4d-b9ff-72961e5211ba</guid>
-            <pubDate>Tue, 18 Apr 2017 05:52:04 GMT</pubDate>
         </item>
     </channel>
 </rss>

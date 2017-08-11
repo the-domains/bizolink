@@ -13,8 +13,8 @@ isBasedOnUrl: 'https://trello.com/guide/getting-started.html'
 title: >-
   If you don't plan you plan to fail, this is definitely a powerful to do list
   you have to try it out!
-datePublished: '2017-08-11T02:29:43.918Z'
-dateModified: '2017-08-11T02:29:42.695Z'
+datePublished: '2017-08-11T02:29:44.904Z'
+dateModified: '2017-08-11T02:29:44.409Z'
 via: {}
 inFeed: true
 sourcePath: >-

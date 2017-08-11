@@ -4,9 +4,16 @@
         <description><![CDATA[Analytics Tao]]></description>
         <link>http://analyticstao.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 10 Aug 2017 09:29:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Aug 2017 02:22:56 GMT</lastBuildDate>
         <atom:link href="http://analyticstao.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 10 Aug 2017 09:29:24 GMT</pubDate>
+        <pubDate>Fri, 11 Aug 2017 02:22:38 GMT</pubDate>
+        <item>
+            <title><![CDATA[Getting Started With Trello | Getting Started with Trello]]></title>
+            <description><![CDATA[<article><h1>Getting Started With Trello | Getting Started with Trello</h1><p>Getting Started with Trello</p><img src="https://d2k1ftgv7pobq7.cloudfront.net/meta/u/res/images/a5e6cfca1a08d309ca8715a1af9842d2/setup-addmembers.png"></article>]]></description>
+            <link>https://trello.com/guide/getting-started.html</link>
+            <guid isPermaLink="false">3ee745da-3caf-45aa-b7c8-d0bdba5b9b89</guid>
+            <pubDate>Fri, 11 Aug 2017 02:22:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Meetings: The ultimate time-suck and what to do about them]]></title>
             <description><![CDATA[<article><h1>Meetings: The ultimate time-suck and what to do about them</h1><p>When great minds meet, everybody benefits. So, when meetings are good, they&apos;re great. But if they&apos;re bad (as most office meetings are, be honest with yourself), they&apos;re anything but beneficial. You may say to yourself, or quietly argue to this article during your sad desk lunch: &quot;But I am doing work.</p><img src="https://tedconfblog.files.wordpress.com/2017/08/webready_wendy-macnaughton-meeting-flowchart-for-ted-1.jpg?w=900"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>http://analyticstao.com/big-data-analytics-skills-in-hot-demand-amid-tech-boom/index.html</link>
             <guid isPermaLink="false">107bcb78-cfd8-417b-a28e-5120b06ede12</guid>
             <pubDate>Wed, 31 May 2017 08:29:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>My Mi Home Setup</p>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6fb4044a-da93-4f1e-9fe9-0da3ed3cb61e.png">]]></description>
-            <link>http://analyticstao.com/my-mi-home-setup/index.html</link>
-            <guid isPermaLink="false">707d69e6-b9c6-49d8-be98-4b44695029f6</guid>
-            <pubDate>Tue, 16 May 2017 09:43:04 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -1,5 +1,11 @@
+name: Analytics Tao
 layout_spectrum: 0.1837878592830557
 typography_spectrum: 0.7494359516267581
+analytics:
+  google: UA-97334757-1
+opengraph:
+  type: ''
+  appId: ''
 color:
   brandColors:
     - '#405952'
@@ -11,20 +17,21 @@ color:
   lightness: 1
   saturation: 0.5581492083234768
   rhythmicContrast: 0.9176259474136341
-content_rating:
-  adult: false
-github: true
-opengraph:
-  type: ''
-  appId: ''
-analytics:
-  google: UA-97334757-1
+purpose:
+  - type: contact
+    label: Buzz me
+    url: 'mailto:bizolink@gmail.com'
+  - type: external
+    url: 'https://api.whatsapp.com/send?phone=60163653399&text=Hello'
+    label: Whatsapp
+title: Analytics Tao
+description: Tao of Analytics + Rants
 author:
   name: Kenneth Goh
-  email: bcgoh.net@gmail.com
   url: 'http://www.analyticstao.com/'
-name: Analytics Tao
-url: 'http://analyticstao.com/'
+  email: bizolink@gmail.com
+content_rating:
+  adult: false
 navigation:
   - name: About Me
     id: 98d943c2-5baa-45bc-a29e-2ff90279069f
@@ -32,7 +39,6 @@ navigation:
   - name: Useful Links
     id: fd10fc3c-ad12-4eb5-a777-b0fed74c0394
     type: content
-title: Analytics Tao
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: video
@@ -43,7 +49,8 @@ content:
       allowfullscreen></iframe>
     src: !<tag:yaml.org,2002:js/undefined> ''
     metadata:
-      datePublished: null
+      '@type': VideoObject
+      '@context': 'http://schema.org'
       isBasedOnUrl: 'https://www.youtube.com/watch?v=j-0cUmUyb-Y'
       keywords:
         - \tim smith\
@@ -59,56 +66,17 @@ content:
         - \cern
         - big
         - data
-      related: []
+      title: Big Data - Tim Smith
+      publisher:
+        name: YouTube
+        domain: www.youtube.com
+        url: 'https://www.youtube.com/'
+        favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
       author:
         - name: TED-Ed
           url: 'https://www.youtube.com/user/TEDEducation'
           avatar: {}
-      '@context': 'http://schema.org'
-      title: Big Data - Tim Smith
-      '@type': VideoObject
-      app_links:
-        - url: 'vnd.youtube://www.youtube.com/watch?v=j-0cUmUyb-Y&feature=applinks'
-          type: ios
-          namespace: ai
-          app_store_id: '544007664'
-          app_name: YouTube
-        - url: 'vnd.youtube://www.youtube.com/watch?v=j-0cUmUyb-Y&feature=applinks'
-          type: android
-          namespace: ai
-          app_name: YouTube
-          package: com.google.android.youtube
-        - url: 'https://www.youtube.com/watch?v=j-0cUmUyb-Y&feature=applinks'
-          type: web
-          namespace: ai
-        - url: 'vnd.youtube://www.youtube.com/watch?v=j-0cUmUyb-Y&feature=applinks'
-          namespace: twitter
-          type: ipad
-          name: YouTube
-          id: '544007664'
-        - url: 'vnd.youtube://www.youtube.com/watch?v=j-0cUmUyb-Y&feature=applinks'
-          namespace: twitter
-          type: iphone
-          name: YouTube
-          id: '544007664'
-        - url: 'https://www.youtube.com/watch?v=j-0cUmUyb-Y'
-          namespace: twitter
-          type: googleplay
-          name: YouTube
-          id: com.google.android.youtube
-        - path: http/www.youtube.com/watch?v=j-0cUmUyb-Y
-          package: com.google.android.youtube
-          namespace: google
-          type: android
-        - path: vnd.youtube/www.youtube.com/watch?v=j-0cUmUyb-Y
-          package: '544007664'
-          namespace: google
-          type: ios
-      publisher:
-        url: 'https://www.youtube.com/'
-        name: YouTube
-        favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-        domain: www.youtube.com
+      starred: false
       description: >-
         View full lesson:
         http://ed.ted.com/lessons/exploration-on-the-big-data-frontier-tim-smith
@@ -119,8 +87,29 @@ content:
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
-description: Tao of Analytics + Rants
-purpose:
-  - type: contact
-    label: Buzz me
-    url: 'mailto:bizolink@gmail.com'
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/186f850f-77a4-40d6-8401-efcb253f814e.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/186f850f-77a4-40d6-8401-efcb253f814e.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+github: true

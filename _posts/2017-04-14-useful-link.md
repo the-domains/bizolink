@@ -3,16 +3,16 @@ inFeed: false
 description: >-
   Following are some useful link which you may find helpful if you are new to
   data science.
-dateModified: '2017-04-14T08:56:43.667Z'
-datePublished: '2017-04-14T08:56:44.792Z'
+dateModified: '2017-08-25T06:00:39.296Z'
+datePublished: '2017-08-25T06:00:40.457Z'
 title: Useful Link
 author: []
 publisher: {}
 via: {}
 hasPage: true
+sourcePath: _posts/2017-04-14-useful-link.md
 starred: false
 datePublishedOriginal: '2017-04-14T08:56:37.525Z'
-sourcePath: _posts/2017-04-14-useful-link.md
 url: useful-link/index.html
 _type: Blurb
 
@@ -29,3 +29,17 @@ www.kaggle.com
 
 Pursue an apprenticeship with a real master data scientist  
 http://www.datasciencecentral.com/group/data-science-apprenticeship
+
+## **Data Visualization**
+
+Explore the relationship between creative design and information visualization.  
+http://www.infosthetics.com: 
+
+Learn how designers, statisticians, and computer scientists use data to better understand the world.  
+http://www.flowingdata.com
+
+Create, share, and explore great visual content online.  
+http://www.visual.ly
+
+Get fresh visual BI insights from the blog of leading expert Stephen Few.  
+http://www.perceptualedge.com

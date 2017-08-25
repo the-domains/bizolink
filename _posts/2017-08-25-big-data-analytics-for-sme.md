@@ -3,19 +3,19 @@ inFeed: true
 description: >-
   Big data can be applied across most industries and practices. The challenge is
   finding the right system and process for their business to thrive.
-dateModified: '2017-08-25T09:13:41.808Z'
-datePublished: '2017-08-25T09:13:47.977Z'
+dateModified: '2017-08-25T09:25:48.378Z'
+datePublished: '2017-08-25T09:25:49.302Z'
 title: BIG Data Analytics for SME
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2017-08-25-big-data-analytics-for-sme.md
 starred: false
 datePublishedOriginal: '2017-08-25T09:13:47.977Z'
-sourcePath: _posts/2017-08-25-big-data-analytics-for-sme.md
 _type: Blurb
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5700c646-e917-4515-a355-b6dccb143a97.png)
+![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/b0270d94179dd4127a2a6a85258e9efc/croprotate.png?cropheight=909&cropwidth=1899&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F5700c646-e917-4515-a355-b6dccb143a97.png&x=0&y=75)
 
 # BIG Data Analytics for SME
 

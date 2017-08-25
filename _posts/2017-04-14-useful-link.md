@@ -3,8 +3,8 @@ inFeed: false
 description: >-
   Following are some useful link which you may find helpful if you are new to
   data science.
-dateModified: '2017-08-25T06:04:13.106Z'
-datePublished: '2017-08-25T06:04:14.603Z'
+dateModified: '2017-08-25T06:05:36.357Z'
+datePublished: '2017-08-25T06:05:37.642Z'
 title: Useful Link
 author: []
 publisher: {}

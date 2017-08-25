@@ -1,22 +1,22 @@
+layout_spectrum: 0.9396574268017961
+typography_spectrum: 0.48778322502979915
+color:
+  brandColors:
+    - '#16193B'
+    - '#35478C'
+    - '#4E7AC7'
+    - '#7FB2F0'
+    - '#ADD5F7'
+  brandStrength: 0.5672083468433692
+  lightness: 0.7409352782519885
+  saturation: 0.15817434624814897
+  rhythmicContrast: 0.7293110525049269
 name: Analytics Tao
-layout_spectrum: 0.1837878592830557
-typography_spectrum: 0.7494359516267581
 analytics:
   google: UA-97334757-1
 opengraph:
   type: ''
   appId: ''
-color:
-  brandColors:
-    - '#405952'
-    - '#9C9B7A'
-    - '#FFD393'
-    - '#FF974F'
-    - '#F54F29'
-  brandStrength: 0.12885883105762008
-  lightness: 1
-  saturation: 0.5581492083234768
-  rhythmicContrast: 0.9176259474136341
 purpose:
   - type: contact
     label: Buzz me
@@ -128,7 +128,6 @@ content:
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
       keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       app_links: []
       '@context': 'http://schema.org'
       '@type': MediaObject

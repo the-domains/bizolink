@@ -3,8 +3,8 @@ inFeed: false
 description: >-
   Following are some useful link which you may find helpful if you are new to
   data science.
-dateModified: '2017-08-25T06:02:45.591Z'
-datePublished: '2017-08-25T06:02:46.504Z'
+dateModified: '2017-08-25T06:04:13.106Z'
+datePublished: '2017-08-25T06:04:14.603Z'
 title: Useful Link
 author: []
 publisher: {}
@@ -22,8 +22,8 @@ _type: Blurb
 Following are some useful link which you may find helpful if you are new to data science.
 
 * Practice using UCI machine learning repository. http://archive.ics.uci.edu/ml
-* A great place to find a data science competition or project open to anyone .www.kaggle.com
-* Pursue an apprenticeship with a real master data scientisthttp://www.datasciencecentral.com/group/data-science-apprenticeship
+* A great place to find a data science competition or project open to anyone. http://www.kaggle.com
+* Pursue an apprenticeship with a real master data scientist.http://www.datasciencecentral.com/group/data-science-apprenticeship
 
 ## **Data Visualization**
 

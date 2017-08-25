@@ -15,8 +15,8 @@ app_links: []
 isBasedOnUrl: >-
   http://go.qlik.com/GLBL_ENGAGEMENT_NURTURE_MASTER_ENG1-1.LOB_Engage_2015_Tch2_PRG_LOB_Engage_2015_Tch2_LP.html?mkt_tok=eyJpIjoiT1RneFpHSmtaR1k1TnpWaSIsInQiOiJDa1lpWjJocEdhbTllVSt6NXBvc3ZOdldSNjhEVHNpaG5wVUZ2MWFqUnZFKzNsTDFFckdsTWJWTDlXR0Z5MWYyZmd5UDIrN2xJQjhYTngzRkhLRkx1QzJCalBmVGM4SE5VMFwvSHR4RUJ1WFwvT2U2aDNmaWV0OUFpWkdYWU5zd0FOSGVweUtiQVM0ZkRvQ3A2YW0rdWFDZz09In0%3D
 title: You Don’t Know What You Don’t Know.
-datePublished: '2017-08-25T03:53:39.142Z'
-dateModified: '2017-08-25T03:53:38.310Z'
+datePublished: '2017-08-25T04:02:26.077Z'
+dateModified: '2017-08-25T04:02:24.688Z'
 via: {}
 inFeed: true
 sourcePath: >-

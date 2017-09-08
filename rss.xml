@@ -4,9 +4,16 @@
         <description><![CDATA[Analytics Tao]]></description>
         <link>http://analyticstao.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 25 Aug 2017 05:22:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Sep 2017 07:09:05 GMT</lastBuildDate>
         <atom:link href="http://analyticstao.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 25 Aug 2017 05:22:39 GMT</pubDate>
+        <pubDate>Fri, 08 Sep 2017 07:09:03 GMT</pubDate>
+        <item>
+            <title><![CDATA[4 approaches to combining data sources and what they mean to you]]></title>
+            <description><![CDATA[<article><h1>4 approaches to combining data sources and what they mean to you</h1><p>A common feature that data analysts and data engineers often look for in a business intelligence (BI) reporting tool is the ability to combine data from different databases, especially data spread across two or more database vendors, such as PostgreSQL, MySQL, SQL server, etc.</p><img src="https://lh3.googleusercontent.com/aghycUurCuvBW9fzxLdkhiJjwNpV7caMz26jhPzRwFPIIDJPibXi06hEreNMW17iVFtkJNYZb_sxdF7r1DpjMdY7NrugLVe8PPcSzHMeAIIqOJiwDY7GA_O9FLBXstZvWfCv-USL"></article>]]></description>
+            <link>https://www.techinasia.com/talk/combining-data-sources-approaches</link>
+            <guid isPermaLink="false">0fd8bd27-a858-4698-babc-5a71c5259b63</guid>
+            <pubDate>Fri, 08 Sep 2017 07:08:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[You Don’t Know What You Don’t Know.]]></title>
             <description><![CDATA[<h1>You Don’t Know What You Don’t Know.</h1>,<p>You may thought you know but when you actually got the data set in multiple form and format, you may realized that you don’t know how to create the best visualization for your analytics. This is a good read to get to know again.</p>,<article><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/fddb249e98e3ea45b36df6d6f6fb66eb/croprotate.png?cropheight=179&cropwidth=230&degrees=0&input=http%3A%2F%2Fgo.qlik.com%2Frs%2Fqliktech%2Fimages%2FGLBL_2014_H1_5_Pitfalls_Ebook_Reg_LP_IMG.png&x=0&y=7"><h1>Qlik E-Book: 5 Data Visualization Pitfalls (and How to Avoid Them)</h1><p>Make sure your data tells the right story. Learn how to avoid the most common obstacles that create confusion in charts and graphs.</p></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://www.facebook.com/techinasia/videos/1523205574384517/</link>
             <guid isPermaLink="false">dea2bdc2-75a3-4d18-9b7f-170f5b0963c5</guid>
             <pubDate>Thu, 03 Aug 2017 08:42:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tips to prepare an outstanding CV for data science roles]]></title>
-            <description><![CDATA[<article><h1>Tips to prepare an outstanding CV for data science roles</h1><p>Here is a CV I received for a position of &quot;Research scientist&quot; some time back: Sadly, the person who applied for the CV had very little chance of getting the position. I am not saying this after looking at the skillset of the person.</p><img src="https://www.analyticsvidhya.com/blog/wp-content/uploads/2014/11/bad_CV_example1-1024x452.jpg"></article>]]></description>
-            <link>https://www.analyticsvidhya.com/blog/2014/11/tips-prepare-cv-data-science-roles/</link>
-            <guid isPermaLink="false">ab27af9b-d13f-4249-a9be-b69a27e2d6ba</guid>
-            <pubDate>Wed, 02 Aug 2017 09:49:22 GMT</pubDate>
         </item>
     </channel>
 </rss>

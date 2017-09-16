@@ -21,9 +21,6 @@ purpose:
   - type: contact
     label: Contact me
     url: 'mailto:bizolink@gmail.com'
-  - type: external
-    url: 'https://api.whatsapp.com/send?phone=60163653399&text=Hello'
-    label: Whatsapp
 title: Analytics Tao
 description: Tao of Analytics + Rants
 author:

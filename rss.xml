@@ -4,9 +4,16 @@
         <description><![CDATA[Analytics Tao]]></description>
         <link>http://analyticstao.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 08 Sep 2017 07:09:05 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Sep 2017 16:30:01 GMT</lastBuildDate>
         <atom:link href="http://analyticstao.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 08 Sep 2017 07:09:03 GMT</pubDate>
+        <pubDate>Sat, 16 Sep 2017 16:29:59 GMT</pubDate>
+        <item>
+            <title><![CDATA[Completed a New Project Website for My Client! ]]></title>
+            <description><![CDATA[<h1><strong>Completed a New Project Website for My Client!</strong></h1>,<article><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e307aae2-8038-4a67-8172-ffc67ccf9560.jpg"><h1>New Luxury Condo next to Sunway Velocity</h1><p>500m walking distance to Maluri LRT &amp; MRT interchange</p></article>]]></description>
+            <link>http://mvertica.link/</link>
+            <guid isPermaLink="false">decaa037-0cf9-444a-a5ed-90cab16450b8</guid>
+            <pubDate>Sat, 16 Sep 2017 16:29:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[4 approaches to combining data sources and what they mean to you]]></title>
             <description><![CDATA[<article><h1>4 approaches to combining data sources and what they mean to you</h1><p>A common feature that data analysts and data engineers often look for in a business intelligence (BI) reporting tool is the ability to combine data from different databases, especially data spread across two or more database vendors, such as PostgreSQL, MySQL, SQL server, etc.</p><img src="https://lh3.googleusercontent.com/aghycUurCuvBW9fzxLdkhiJjwNpV7caMz26jhPzRwFPIIDJPibXi06hEreNMW17iVFtkJNYZb_sxdF7r1DpjMdY7NrugLVe8PPcSzHMeAIIqOJiwDY7GA_O9FLBXstZvWfCv-USL"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://www.tableau.com/asset/top-10-big-data-trends-2017?utm_campaign=Retargeting-CORE-ALL-ALL&amp;utm_medium=Paid+Social&amp;utm_source=LinkedIn&amp;utm_language=EN&amp;utm_country=SEA-SG&amp;adgroup=WEB-All+Other</link>
             <guid isPermaLink="false">41a105aa-e610-486d-bcd7-568706cd2742</guid>
             <pubDate>Fri, 04 Aug 2017 05:51:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img alt="&quot;Worrying about AI taking over humanity is like worrying about overpopulating Mars,&quot; says AI researcher Andrew Ng. &quot;We aren&apos;t even on the planet yet.&quot;" src="https://scontent-iad3-1.xx.fbcdn.net/v/t15.0-10/p720x720/20625957_1523208871050854_4647713118934269952_n.jpg?oh=2f5cc60cc885c3929c2f4dbd60a71c2b&oe=5A34E9EC">]]></description>
-            <link>https://www.facebook.com/techinasia/videos/1523205574384517/</link>
-            <guid isPermaLink="false">dea2bdc2-75a3-4d18-9b7f-170f5b0963c5</guid>
-            <pubDate>Thu, 03 Aug 2017 08:42:34 GMT</pubDate>
         </item>
     </channel>
 </rss>

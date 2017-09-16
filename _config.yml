@@ -19,7 +19,7 @@ opengraph:
   appId: ''
 purpose:
   - type: contact
-    label: Buzz me
+    label: Contact me
     url: 'mailto:bizolink@gmail.com'
   - type: external
     url: 'https://api.whatsapp.com/send?phone=60163653399&text=Hello'
@@ -67,7 +67,6 @@ content:
         - free
         - upload
       description: 'http://www.weforum.org/'
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       '@type': VideoObject
       app_links: []
       '@context': 'http://schema.org'

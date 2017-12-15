@@ -4,9 +4,16 @@
         <description><![CDATA[Analytics Tao]]></description>
         <link>http://analyticstao.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Dec 2017 09:07:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Dec 2017 01:38:58 GMT</lastBuildDate>
         <atom:link href="http://analyticstao.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 14 Dec 2017 09:07:24 GMT</pubDate>
+        <pubDate>Fri, 15 Dec 2017 01:38:57 GMT</pubDate>
+        <item>
+            <title><![CDATA[Happiness]]></title>
+            <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2Fe9dZQelULDk%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3De9dZQelULDk&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fe9dZQelULDk%2Fhqdefault.jpg&key=a715cf41cc93453ca338d350cd26f87b&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
+            <link>https://youtu.be/e9dZQelULDk</link>
+            <guid isPermaLink="false">c702839d-a923-4c8f-aa18-c8d07a5b8b81</guid>
+            <pubDate>Fri, 15 Dec 2017 01:38:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Big data analytics may be against privacy and democracy, journos learn]]></title>
             <description><![CDATA[<article><h1>Big data analytics may be against privacy and democracy, journos learn</h1><p>The world of digitalisation and technology is rapidly evolving with &apos;big data&apos;, and it is time the Malaysian media kept up with the changes. With the drop in sales of newspapers, and for the online media&apos;s growth, the Malaysian media must focus on keeping Malaysians digitally informed.</p><img src="https://i.malaysiakini.com/1187/c048f58f6ab70d16334102bb19a6bb9e.jpeg"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>http://www.datasciencecentral.com/profiles/blogs/the-rise-of-the-citizen-data-scientist?utm_content=buffer385c6&amp;utm_medium=social&amp;utm_source=facebook.com&amp;utm_campaign=buffer</link>
             <guid isPermaLink="false">37167b2f-6f16-47f5-8ccb-862e9e6e6b0e</guid>
             <pubDate>Fri, 11 Aug 2017 06:54:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[If you don't plan you plan to fail, this is definitely a powerful to do list you have to try it out!]]></title>
-            <description><![CDATA[<h2><strong>If you don't plan you plan to fail, this is definitely a powerful to do list you have to try it out!</strong></h2>,<article><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/e5f0b425ad28540b936352c63e5c6c02/croprotate.png?cropheight=885&cropwidth=2566&degrees=0&input=https%3A%2F%2Fd2k1ftgv7pobq7.cloudfront.net%2Fmeta%2Fu%2Fres%2Fimages%2Fa5e6cfca1a08d309ca8715a1af9842d2%2Fsetup-addmembers.png&x=0&y=18"><h1>Getting Started With Trello | Getting Started with Trello</h1><p>Getting Started with Trello</p></article>]]></description>
-            <link>https://trello.com/guide/getting-started.html</link>
-            <guid isPermaLink="false">3ee745da-3caf-45aa-b7c8-d0bdba5b9b89</guid>
-            <pubDate>Fri, 11 Aug 2017 02:22:36 GMT</pubDate>
         </item>
     </channel>
 </rss>

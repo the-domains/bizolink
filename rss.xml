@@ -4,9 +4,16 @@
         <description><![CDATA[Analytics Tao]]></description>
         <link>http://analyticstao.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 15 Dec 2017 01:38:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Dec 2017 09:03:11 GMT</lastBuildDate>
         <atom:link href="http://analyticstao.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 15 Dec 2017 01:38:57 GMT</pubDate>
+        <pubDate>Tue, 19 Dec 2017 09:03:09 GMT</pubDate>
+        <item>
+            <title><![CDATA[11 Secrets to Memorize Things Quicker Than Others]]></title>
+            <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FmHdy1xS59xA%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DmHdy1xS59xA&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FmHdy1xS59xA%2Fhqdefault.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
+            <link>https://www.youtube.com/watch?v=mHdy1xS59xA</link>
+            <guid isPermaLink="false">ea082087-8337-41e6-956a-9fe9961c4b5b</guid>
+            <pubDate>Tue, 19 Dec 2017 09:03:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Happiness]]></title>
             <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2Fe9dZQelULDk%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3De9dZQelULDk&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fe9dZQelULDk%2Fhqdefault.jpg&key=a715cf41cc93453ca338d350cd26f87b&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
@@ -69,13 +76,6 @@
             <link>https://www.consumerreports.org/laptop-computers/microsoft-surface-laptops-and-tablets-not-recommended-by-consumer-reports/</link>
             <guid isPermaLink="false">0af2285b-31b0-40b3-889f-c320c7c0a1a1</guid>
             <pubDate>Fri, 11 Aug 2017 07:24:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Rise of the Citizen Data Scientist]]></title>
-            <description><![CDATA[<article><h1>The Rise of the Citizen Data Scientist</h1><p>The development of Big Data, artificial intelligence and predictive analytics has created extravagant expectations for enterprise productivity growth - and aroused popular anxiety about intelligent information systems taking jobs from human workers. It is ironic, against that backdrop, that what is holding back widespread adoption of these technologies is, of all things, a manpower shortage.</p><img src="http://api.ning.com:80/files/WKEFsSLXrgJkvvcNB6fsDc1Wr2*hy7ELLL*7pLwh6LfeBgFwydYxEXkHh7NxIojgMWAyAV3Xx1aSF7cddRLU6f*Jz45CGAih/iStock517738272.jpg?width=750"></article>]]></description>
-            <link>http://www.datasciencecentral.com/profiles/blogs/the-rise-of-the-citizen-data-scientist?utm_content=buffer385c6&amp;utm_medium=social&amp;utm_source=facebook.com&amp;utm_campaign=buffer</link>
-            <guid isPermaLink="false">37167b2f-6f16-47f5-8ccb-862e9e6e6b0e</guid>
-            <pubDate>Fri, 11 Aug 2017 06:54:06 GMT</pubDate>
         </item>
     </channel>
 </rss>

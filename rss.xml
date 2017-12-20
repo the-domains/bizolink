@@ -4,9 +4,16 @@
         <description><![CDATA[Analytics Tao]]></description>
         <link>http://analyticstao.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Dec 2017 09:03:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Dec 2017 08:50:03 GMT</lastBuildDate>
         <atom:link href="http://analyticstao.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 19 Dec 2017 09:03:09 GMT</pubDate>
+        <pubDate>Wed, 20 Dec 2017 08:50:02 GMT</pubDate>
+        <item>
+            <title><![CDATA[CDO or CAO?]]></title>
+            <description><![CDATA[<article><h1>CDO or CAO?</h1><p>If you have committed to data and analytics as strategically important to your business, should you have a Chief Data Officer (CDO) or a Chief Analytics Officer (CAO)? What&apos;s the difference and what&apos;s the trend?</p><img src="http://api.ning.com:80/files/T-pVQqP4sO2JKXDS0VOGMhUHvq3lu91qTLPnvfLrVLHeYF3jrV2l198X2SsT*2a-RdmAQyDUy51fZHu1FEykMe08WIg4RVHD/CDOCAO.png?width=500"></article>]]></description>
+            <link>https://www.datasciencecentral.com/profiles/blogs/cdo-or-cao</link>
+            <guid isPermaLink="false">89121301-a730-4d04-8bd9-12f41c63d509</guid>
+            <pubDate>Wed, 20 Dec 2017 08:50:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[11 Secrets to Memorize Things Quicker Than Others]]></title>
             <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FmHdy1xS59xA%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DmHdy1xS59xA&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FmHdy1xS59xA%2Fhqdefault.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
@@ -69,13 +76,6 @@
             <link>http://go.qlik.com/GLBL_ENGAGEMENT_NURTURE_MASTER_ENG1-1.LOB_Engage_2015_Tch2_PRG_LOB_Engage_2015_Tch2_LP.html</link>
             <guid isPermaLink="false">8843ab25-a14a-4103-ab98-ecce58d09a9e</guid>
             <pubDate>Fri, 25 Aug 2017 05:22:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[OMG! I just bought a week ago …]]></title>
-            <description><![CDATA[<h1>OMG! I just bought a week ago …</h1>,<article><img src="https://brightcove.hs.llnwd.net/v2/unsecured/media/1078702682/201708/1504/1078702682_5536847375001_5536842149001-vs.jpg?pubId=1078702682"><h1>Microsoft Surface Laptops and Tablets Not Recommended by Consumer Reports</h1><p>Consumer Reports is removing the recommended designation from Microsoft Surface laptops and tablets. The problem is predicted reliability compared with most other brands.</p></article>]]></description>
-            <link>https://www.consumerreports.org/laptop-computers/microsoft-surface-laptops-and-tablets-not-recommended-by-consumer-reports/</link>
-            <guid isPermaLink="false">0af2285b-31b0-40b3-889f-c320c7c0a1a1</guid>
-            <pubDate>Fri, 11 Aug 2017 07:24:42 GMT</pubDate>
         </item>
     </channel>
 </rss>

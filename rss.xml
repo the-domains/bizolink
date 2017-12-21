@@ -4,9 +4,16 @@
         <description><![CDATA[Analytics Tao]]></description>
         <link>http://analyticstao.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Dec 2017 08:50:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Dec 2017 03:23:40 GMT</lastBuildDate>
         <atom:link href="http://analyticstao.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 20 Dec 2017 08:50:02 GMT</pubDate>
+        <pubDate>Thu, 21 Dec 2017 03:23:38 GMT</pubDate>
+        <item>
+            <title><![CDATA[Robby Leonardi | hey@rleonardi.com]]></title>
+            <description><![CDATA[<article><h1>Robby Leonardi | hey@rleonardi.com</h1><p>Scroll down mouse OR press keyboard&apos;s down-arrow</p><img src="http://www.rleonardi.com/interactive-resume/image/social-dribbble.png"></article>]]></description>
+            <link>http://www.rleonardi.com/interactive-resume/</link>
+            <guid isPermaLink="false">d0e9cc2d-457d-41dc-8328-8311c644ef87</guid>
+            <pubDate>Thu, 21 Dec 2017 03:23:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[CDO or CAO?]]></title>
             <description><![CDATA[<article><h1>CDO or CAO?</h1><p>If you have committed to data and analytics as strategically important to your business, should you have a Chief Data Officer (CDO) or a Chief Analytics Officer (CAO)? What&apos;s the difference and what&apos;s the trend?</p><img src="http://api.ning.com:80/files/T-pVQqP4sO2JKXDS0VOGMhUHvq3lu91qTLPnvfLrVLHeYF3jrV2l198X2SsT*2a-RdmAQyDUy51fZHu1FEykMe08WIg4RVHD/CDOCAO.png?width=500"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://www.techinasia.com/talk/combining-data-sources-approaches</link>
             <guid isPermaLink="false">0fd8bd27-a858-4698-babc-5a71c5259b63</guid>
             <pubDate>Fri, 08 Sep 2017 07:08:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[You Don’t Know What You Don’t Know.]]></title>
-            <description><![CDATA[<h1>You Don’t Know What You Don’t Know.</h1>,<p>You may thought you know but when you actually got the data set in multiple form and format, you may realized that you don’t know how to create the best visualization for your analytics. This is a good read to get to know again.</p>,<article><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/fddb249e98e3ea45b36df6d6f6fb66eb/croprotate.png?cropheight=179&cropwidth=230&degrees=0&input=http%3A%2F%2Fgo.qlik.com%2Frs%2Fqliktech%2Fimages%2FGLBL_2014_H1_5_Pitfalls_Ebook_Reg_LP_IMG.png&x=0&y=7"><h1>Qlik E-Book: 5 Data Visualization Pitfalls (and How to Avoid Them)</h1><p>Make sure your data tells the right story. Learn how to avoid the most common obstacles that create confusion in charts and graphs.</p></article>]]></description>
-            <link>http://go.qlik.com/GLBL_ENGAGEMENT_NURTURE_MASTER_ENG1-1.LOB_Engage_2015_Tch2_PRG_LOB_Engage_2015_Tch2_LP.html</link>
-            <guid isPermaLink="false">8843ab25-a14a-4103-ab98-ecce58d09a9e</guid>
-            <pubDate>Fri, 25 Aug 2017 05:22:38 GMT</pubDate>
         </item>
     </channel>
 </rss>

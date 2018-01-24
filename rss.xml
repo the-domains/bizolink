@@ -4,9 +4,16 @@
         <description><![CDATA[Analytics Tao]]></description>
         <link>http://analyticstao.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Dec 2017 03:23:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Jan 2018 03:37:55 GMT</lastBuildDate>
         <atom:link href="http://analyticstao.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 21 Dec 2017 03:23:38 GMT</pubDate>
+        <pubDate>Wed, 24 Jan 2018 03:37:53 GMT</pubDate>
+        <item>
+            <title><![CDATA[Building Innovation in the Property Market | Hong Kong Means Business]]></title>
+            <description><![CDATA[<article><h1>Building Innovation in the Property Market | Hong Kong Means Business</h1><p>Hong Kong is a hotbed of entrepreneurial innovation, with technology start-ups in the limelight. And while the fields of e-commerce, financial technology and information technology sectors dominate among the nearly 2,000 start-ups estimated in the city by InvestHK&apos;s most recent survey (as of August 2016), new businesses engaged in property technology - or Proptech - have been quietly growing.</p><img src="http://www.hktdc.com/resources/MI_Portal/Article/hkti/2018/01/483022/1515558035395_HKMB-Spotlight-24Jan_483022.jpg"></article>]]></description>
+            <link>http://hkmb.hktdc.com/en/1X0ACPAN/market-spotlight/Building-Innovation-in-the-Property-Market?utm_source=enews&amp;utm_medium=email&amp;utm_campaign=hkmb-edm</link>
+            <guid isPermaLink="false">4fb18e73-b02e-449d-b8ec-45c571860039</guid>
+            <pubDate>Wed, 24 Jan 2018 03:37:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Robby Leonardi | hey@rleonardi.com]]></title>
             <description><![CDATA[<article><h1>Robby Leonardi | hey@rleonardi.com</h1><p>Scroll down mouse OR press keyboard&apos;s down-arrow</p><img src="http://www.rleonardi.com/interactive-resume/image/social-dribbble.png"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>http://mvertica.link/</link>
             <guid isPermaLink="false">decaa037-0cf9-444a-a5ed-90cab16450b8</guid>
             <pubDate>Sat, 16 Sep 2017 16:29:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[4 approaches to combining data sources and what they mean to you]]></title>
-            <description><![CDATA[<article><h1>4 approaches to combining data sources and what they mean to you</h1><p>A common feature that data analysts and data engineers often look for in a business intelligence (BI) reporting tool is the ability to combine data from different databases, especially data spread across two or more database vendors, such as PostgreSQL, MySQL, SQL server, etc.</p><img src="https://lh3.googleusercontent.com/aghycUurCuvBW9fzxLdkhiJjwNpV7caMz26jhPzRwFPIIDJPibXi06hEreNMW17iVFtkJNYZb_sxdF7r1DpjMdY7NrugLVe8PPcSzHMeAIIqOJiwDY7GA_O9FLBXstZvWfCv-USL"></article>]]></description>
-            <link>https://www.techinasia.com/talk/combining-data-sources-approaches</link>
-            <guid isPermaLink="false">0fd8bd27-a858-4698-babc-5a71c5259b63</guid>
-            <pubDate>Fri, 08 Sep 2017 07:08:10 GMT</pubDate>
         </item>
     </channel>
 </rss>

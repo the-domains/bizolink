@@ -4,9 +4,16 @@
         <description><![CDATA[Analytics Tao]]></description>
         <link>http://analyticstao.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 24 Jan 2018 03:37:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Jan 2018 08:43:42 GMT</lastBuildDate>
         <atom:link href="http://analyticstao.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 24 Jan 2018 03:37:53 GMT</pubDate>
+        <pubDate>Wed, 24 Jan 2018 08:43:41 GMT</pubDate>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<iframe src="https://drive.google.com/viewerng/viewer?url=https%3A//cdn2.hubspot.net/hubfs/2172371/Q1%25202017%2520Gartner.pdf%3Ft%3D149626062&embedded=true" width="600" height="780"></iframe>]]></description>
+            <link>https://cdn2.hubspot.net/hubfs/2172371/Q1%202017%20Gartner.pdf?t=149626062</link>
+            <guid isPermaLink="false">8de55b5a-d3c9-40c4-a71c-29001ef56496</guid>
+            <pubDate>Wed, 24 Jan 2018 08:43:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Building Innovation in the Property Market | Hong Kong Means Business]]></title>
             <description><![CDATA[<article><h1>Building Innovation in the Property Market | Hong Kong Means Business</h1><p>Hong Kong is a hotbed of entrepreneurial innovation, with technology start-ups in the limelight. And while the fields of e-commerce, financial technology and information technology sectors dominate among the nearly 2,000 start-ups estimated in the city by InvestHK&apos;s most recent survey (as of August 2016), new businesses engaged in property technology - or Proptech - have been quietly growing.</p><img src="http://www.hktdc.com/resources/MI_Portal/Article/hkti/2018/01/483022/1515558035395_HKMB-Spotlight-24Jan_483022.jpg"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://www.tailorbrands.com/</link>
             <guid isPermaLink="false">63db7189-377d-4eb7-b6ba-444f625cafdb</guid>
             <pubDate>Tue, 10 Oct 2017 18:37:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Completed a New Project Website for My Client!]]></title>
-            <description><![CDATA[<h1><strong>Completed a New Project Website for My Client!</strong></h1>,<article><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e307aae2-8038-4a67-8172-ffc67ccf9560.jpg"><h1>New Luxury Condo next to Sunway Velocity</h1><p>500m walking distance to Maluri LRT &amp; MRT interchange</p></article>]]></description>
-            <link>http://mvertica.link/</link>
-            <guid isPermaLink="false">decaa037-0cf9-444a-a5ed-90cab16450b8</guid>
-            <pubDate>Sat, 16 Sep 2017 16:29:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
